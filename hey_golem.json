@@ -3,7 +3,7 @@
   "wake_word": "Hey Golem",
   "author": "Patrick",
   "website": "",
-  "model": "https://raw.githubusercontent.com/waterpourshark/vpe-hey-golem/main/hey_golem.tflite",
+  "model": "hey_golem.tflite",
   "trained_languages": [
     "en"
   ],
