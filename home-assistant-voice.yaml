@@ -1730,7 +1730,7 @@ micro_wake_word:
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
       internal: true
-    - model: github://waterpourshark/vpe-hey-golem/hey_golem.json@main
+    - model: github://waterpourshark/vpe-hey-golem/hey_golem.json@e8a5da4d35f8a62419c41d54fbff57ade1465d95
       id: hey_golem
   vad:
   on_wake_word_detected:
